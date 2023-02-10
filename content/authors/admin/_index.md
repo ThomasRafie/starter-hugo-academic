@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Thomas Rafie
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Thomas
+last_name: Rafie
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master's candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Université de Montréal
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
